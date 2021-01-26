@@ -5,6 +5,8 @@ telegram bot to manage reminders to yourself
 - full server
 - indicate necessary api:
     - create/read/update/delete files in conversation
+    - create/read/update/delete messages in conversation
+    - ?change properties of conversation
 - compose a set of instructions to the bot
     - add note
         - set date
